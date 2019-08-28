@@ -6,6 +6,5 @@
 
 \f0\fs24 \cf0 Zeren Xu
 zxu123@gmail.comu
-fall 2019
+Fall 2019
 "Private repository, only for posting at: https://github.gatech.edu/gt-omscs-se-2019fall/6300Fall19<your GT username>.git"
-"

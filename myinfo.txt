@@ -4,6 +4,8 @@
 \paperw11905\paperh16837\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 Zeren Xu “Private repository, only for posting at: https://github.gatech.edu/gt-omscs-se-2019fall/6300Fall19<your GT username>.git“
-
+\f0\fs24 \cf0 Zeren Xu
 zxu123@gmail.comu
+fall 2019
+"Private repository, only for posting at: https://github.gatech.edu/gt-omscs-se-2019fall/6300Fall19<your GT username>.git"
+"
